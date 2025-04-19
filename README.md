@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Pritam Roy Chowdhury]!
+# 👋 Hi, I'm Pritam Roy Chowdhury!
 
 Welcome to my GitHub profile! I'm a [AI/ML enthusiast] passionate about [application of AI/ML in solving real world problems]. Here's a bit about me:
 
